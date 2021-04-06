@@ -7,6 +7,7 @@
 * {git clone https://github.com/Mikemunene16/my-portfolio.git}
 * Use the live link to acess the portfolio
 ## Live link
+* https://mikemunene16.github.io/my-portfolio/
 ## Known Bugs
 ## Technologies Used
 {I used HTML AND CSS to create this project.}
